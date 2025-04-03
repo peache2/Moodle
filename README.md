@@ -9,8 +9,8 @@ Debemos de ponerle nombre al curso, completando todas las casillas obligatorias.
 Añadimos el tamaño de la contraseña a 4 caracteres en la configuración del curso para que se necesite ponerla al intentar entrar en el curso.
 ![Preferences](4.png)
 Vamos a crear 2 cursos, uno con el nombre A y otro con el nombre B selecionando el boton de color azul ***Crear Curso*** .
-![Cursos](4.1.png)
-
+![Cursos](10.png)
+![Cursos](10.png)
 Dentro del curso **A** cambiaremos el nombre de 3 temas
 Dentro del curso **B** cambiaremos el nombre a 5 temas
 ![Temas](3.1.png)
